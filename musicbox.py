@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-#Code by XyK
+#Code by monsunalb
 
 import os, urllib2, youtube_dl, datetime, shutil, time, sys
 
